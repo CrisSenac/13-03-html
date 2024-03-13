@@ -166,5 +166,29 @@
     border-radius: 15px;
 }
 .arredondadas-2{
+    border: 4px solid blue;
+    background-color: #000;
+    color: blue;
+    padding: 15px;
+    border-radius: 25px;
+}
 
+.box-model{
+    margin: 20px;
+    background-color: aquamarine;
+    padding: 15px 25px;
+    border: 2px solid red;
+    width: 200px;
+    height:400px;
+}
+
+/* Desafio */
+.outline{
+    outline: 3px solid purple;
+    margin: 5px;
+    background-color: beige;
+    padding: 10px 15px;
+    border: 2px solid gray;
+    width: 100px;
+    height:410px;
 }
