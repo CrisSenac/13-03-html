@@ -140,3 +140,31 @@
     */
     padding: 5px 20px 40px 10px;
 }
+
+.border{
+    border: 5px solid red;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.border2{
+    border: 2px dotted red;
+    padding: 25px;
+    background-color: #999;
+    
+}
+.border-esquerda{
+    border-left: 3px solid red;
+}
+.border-direita{
+    border-bottom: 5px double red;
+}
+.arredondadas{
+    border: 4px solid blue;
+    background-color: #000;
+    color: blue;
+    padding: 15px;
+    border-radius: 15px;
+}
+.arredondadas-2{
+
+}
